@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "604552452098",
+    "firebase_url": "https://solupark-49c06-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "solupark-49c06",
+    "storage_bucket": "solupark-49c06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604552452098:android:4fc735621c2593c363ef1b",
+        "android_client_info": {
+          "package_name": "com.solupark.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604552452098-tkk9v3u8brausnk5g243knp15s03p6mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZ3iMWpwqUeRYQIOZKBy1sHiUQ5k1d5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604552452098-tkk9v3u8brausnk5g243knp15s03p6mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
